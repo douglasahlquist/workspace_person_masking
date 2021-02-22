@@ -9,7 +9,7 @@ Tghis masking is accompished in real-time as the video is 'recorded' from your s
 
 ## As seen on Twitter
 
-This have bee posted on Twitter @douglasahlquist.    As a favor retweet or add your over video of you masking out 
+This has been posted on Twitter @douglasahlquist.    As a favor retweet or add your over video of you masking out 
 
 Feel free to use in your own projects. Code is released under Apache licence. If you decide to use my code please consider giving me a shout out! Would love to see what others create with it :-) Thanks.
 
