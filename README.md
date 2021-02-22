@@ -4,7 +4,7 @@ We've all seen Google Maps where the products remove all people from the street 
 ## This project.
 
 In using TensorFlow Javascript this small javascript file will programmatically remove persons from a second live video stream.  
-Tghis masking is accompished in real-time as the video is 'recorded' from your system's web cam.
+This masking is accompished in real-time as the video is 'recorded' from your system's web cam.
 
 
 ## As seen on Twitter
