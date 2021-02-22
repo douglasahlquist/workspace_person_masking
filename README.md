@@ -1,4 +1,4 @@
-# Person Removal from your videos, or as I have joked about this 'unfollow' your self.
+# Person Removal from your videos, or as I have joked about this 'unfollow' yourself.
 We've all seen Google Maps where the products remove all people from the street views.   This is what this project attempts to accomplish using Apache TensorFlow Javascript. 
 
 ## This project.
